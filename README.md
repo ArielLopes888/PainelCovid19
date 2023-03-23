@@ -1,4 +1,7 @@
-# Painel_Covid-19
+# Análise de Dados com Python
+## Trabalho do curso de Análise e Desenvolvimento de Sistemas
+
+
 # Painel para demonstrar a evolução do Covid-19 no Brasil e na Albânia, utilizando Python.
 
 ## Módulos utilizados : Pandas, Matplotlib.
